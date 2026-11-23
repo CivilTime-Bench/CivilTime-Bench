@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/qualitative_examples.png" alt="Figure 1. Contract-aware prompting across civil-time categories. Baseline (rose) versus contract-aware (peach)." width="860">
+  <img src="assets/qualitative_examples.png" alt="Figure 1. Contract-aware prompting across civil-time categories. Baseline (rose) versus contract-aware (peach)." width="500">
 </p>
 <p align="center">
   <i>Figure 1 of the paper. Baseline (rose) vs. contract-aware (peach). Contract restatement can improve format compliance without guaranteeing exact-match accuracy.</i>
